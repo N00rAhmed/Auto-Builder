@@ -19,4 +19,7 @@ items only clickable when made into a frame
 
 https://www.youtube.com/watch?v=MCbpcfEmjxM
 
+<img width="1841" height="918" alt="image" src="https://github.com/user-attachments/assets/f67bc2b3-3686-43f0-bcc2-deb2e9ed620b" />
+
+
 https://www.figma.com/design/nMLShr0zfCeGgtts4bAeDp/Auto-Builder-UI?node-id=0-1&t=jLEgwVoDQ3LCqGFO-1
