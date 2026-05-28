@@ -13,4 +13,10 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 ## Figma
 
+items only clickable when made into a frame
+
+`shift + a` creates a frame
+
+https://www.youtube.com/watch?v=MCbpcfEmjxM
+
 https://www.figma.com/design/nMLShr0zfCeGgtts4bAeDp/Auto-Builder-UI?node-id=0-1&t=jLEgwVoDQ3LCqGFO-1
