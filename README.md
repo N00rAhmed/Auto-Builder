@@ -17,6 +17,8 @@ items only clickable when made into a frame
 
 `shift + a` creates a frame
 
+copy link from frame and paste on ui component to link
+
 https://www.youtube.com/watch?v=MCbpcfEmjxM
 
 <img width="1841" height="918" alt="image" src="https://github.com/user-attachments/assets/f67bc2b3-3686-43f0-bcc2-deb2e9ed620b" />
